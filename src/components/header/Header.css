@@ -1,7 +1,9 @@
 .header {
+    background-color: white;
     position: relative;
     display: flex;
     justify-content: space-between;
+    height: 60px;
   }
 
   .name {

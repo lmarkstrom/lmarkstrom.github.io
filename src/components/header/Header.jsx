@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useRef  } from 'react';
 import './Header.css';
 
-const Header = () => {
-    const [activeTab, setActiveTab] = useState(0);
+const Header = ({ activeTab, setActiveTab }) => {
+    // const [activeTab, setActiveTab] = useState(0);
     const [underlineStyle, setUnderlineStyle] = useState({});
     const tabsRef = useRef(null);
 
