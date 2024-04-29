@@ -1,9 +1,10 @@
 .header {
-    background-color: white;
+    background-color: #9aa6bd;
     position: relative;
     display: flex;
     justify-content: space-between;
     height: 60px;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
   }
 
   .name {

@@ -13,10 +13,13 @@ const About = () => {
                     <img className='picture' src={portrait} alt="Portrait" />
                 </div>
                 <div className='textcontainer'> 
-                    <h2>About me</h2>
+                    <h2>Linus Markström</h2>
                     <p>
                         My name is Linus Markstrom and I am a secound year M.Sc student in computer science at
-                        KTH Royal Institute of Technology.
+                        KTH Royal Institute of Technology. I was born in Umeå Sweden the year 2000. I grew up there 
+                        and later was called up for military service in the air force. In the air force i was a fighter 
+                        jet mechanic. After my service I worked in the Navy for two years as a System Engineer before I 
+                        began my studies at KTH.
                         <br/> <br/>
                         On this page i show my previus work and experience. My special areas are back-end 
                         structure and design. As shown in my previus project I have worked alot in design and
@@ -46,13 +49,12 @@ const About = () => {
                 <div className='textP'>
                     <h2>Language Skills</h2>
                     <p>
-                        My name is Linus Markstrom and I am a secound year M.Sc student in computer science at
-                        KTH Royal Institute of Technology.
+                        I have worked with multiple programming languages during my studies and spare time. I have most experience in Java,
+                        C, Assembler, Python, PSQL, Haskell, HTML, JS and Prolog. But I have also some experience in MatLab, Golang, PHP, SQLite, Clojure,
+                        Smalltalk, Erlang, Rust and Cobolt.
                         <br/> <br/>
-                        On this page i show my previus work and experience. My special areas are back-end 
-                        structure and design. As shown in my previus project I have worked alot in design and
-                        front-end work. But i thrive just as much building a stable backbone of the project.
-                        
+                        My knowledge in these language are varied but I have both a wide experience as shown above but also a deeper experince in more
+                        limited amount of languages. I thrive learning me new things and therefor I enjoy getting a wide knowledge and try new things.
                     </p>
                 </div>
             </div>
